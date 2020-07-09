@@ -40,6 +40,3 @@ class App extends Component {
 }
 
 export default App
-
-
-//truthful-cable.surge.sh
