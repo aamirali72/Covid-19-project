@@ -42,6 +42,4 @@ class App extends Component {
 export default App
 
 
-//lackadaisical-lunchroom.surge.sh
-
-//21cf87cdcad80dc9d8191d879f09cc1c
+//truthful-cable.surge.sh
